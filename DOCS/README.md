@@ -1,2 +1,0 @@
-# Openstack-projet
-openstack 
